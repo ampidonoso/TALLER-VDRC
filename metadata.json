@@ -1,0 +1,7 @@
+{
+  "name": "Productividad Digital Pro",
+  "description": "Una plataforma interactiva basada en el taller de Vicente Donoso para transformar la productividad personal mediante organización digital, IA y automatización.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
